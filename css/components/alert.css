@@ -1,0 +1,31 @@
+.alert-dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: block;
+}
+
+.header__alert-dot {
+  position: absolute;
+  right: 15px;
+  top: 25px;
+}
+
+.nav__alert-dot {
+  position: absolute;
+  right: -8px;
+  top: -8px;
+}
+
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
